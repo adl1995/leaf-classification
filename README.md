@@ -27,7 +27,6 @@ cd leaf-classification
 pip install -r requirements.txt
 python learn.py
 ```
-```
 
 ## Contributing
 

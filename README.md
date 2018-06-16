@@ -1,3 +1,5 @@
+> Disclaimer: The code in this repository is apadted from: https://github.com/MWransky/leaf-classification
+
 # Leaf Classification
 
 The goal of this project is to automate the recognition of plants on the basis of their leaves. The input to the system would be a picture of a leaf and the output would be the name of the plant species to which it belongs. Currently, there are thousands, if not millions of plant species around the globe, therefore, this is not an easy task. Also, many medical fields which involve plants in creating medicines can find extensive use of this classifier. It can also be a simple smart-phone application where the user will take a picture of a plant leaf and instantly know the name of the species it belongs to.
@@ -33,13 +35,6 @@ python learn.py
 
 Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
 
-
-## Authors
-
-* **Adeel Ahmad** - [adl1995](https://github.com/adl1995)
-
-
 ## License
 
 This project is not under any license.
-
